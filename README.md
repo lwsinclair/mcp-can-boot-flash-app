@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/crycode-de-mcp-can-boot-flash-app-badge.png)](https://mseep.ai/app/crycode-de-mcp-can-boot-flash-app)
+
 # MCP-CAN-Boot Flash-App
 
 ![MCP-CAN-Boot logo](https://raw.githubusercontent.com/crycode-de/mcp-can-boot/main/doc/mcp-can-boot-256.png)
